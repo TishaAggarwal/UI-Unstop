@@ -24,7 +24,7 @@ v1.0.0 (2023-07-01): Initial release of the Employee Management System on Github
 - Sources
 
 # Illustrations
-Include relevant screenshots or diagrams to help visualize the project if applicable.
+![image](https://github.com/TishaAggarwal/JPDBCode/assets/101394409/17ed40e5-f021-45a8-8912-d180292e9e0e)
 
 # Scope of Functionalities
 The Employee Management System provides the following functionalities:
